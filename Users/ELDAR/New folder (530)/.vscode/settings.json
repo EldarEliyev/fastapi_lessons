@@ -1,0 +1,9 @@
+{
+    "python.defaultInterpreterPath": "c:\\Users\\ELDAR\\New folder (530)\\.venv\\Scripts\\python.exe",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python",
+        "editor.formatOnSave": true
+    }
+}
